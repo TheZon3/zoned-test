@@ -11,6 +11,7 @@
 
 body {
     background-color: #212020;
+    overflow-x: hidden;
 }
 
 /* ==================humburger===================== */
